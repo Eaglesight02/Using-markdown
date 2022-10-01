@@ -17,3 +17,9 @@ cout<<"Hello World"<<endl;
 return 0;
 }
 ```
+
+- [x] Created the index markdown file
+- [x] Edited the index markdown file to create headers in file(all six :relieved: )
+- [x] Then added an image into the file
+- [x] Also included a cpp code block :smiley:
+- [x] Finally created the task list :rocket:
